@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+button {
+  padding: 0.25rem 0.5rem;
+  margin-top: 2rem;
+  min-width: 150px;
+  min-height: 30px;
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 30px;
+}
+
+img {
+  width: 600px;
+}
